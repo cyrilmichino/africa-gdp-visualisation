@@ -14,8 +14,8 @@ This data has been sourced from [the World Bank](https://data.worldbank.org/) on
 For clarity on how we imputed regions in Africa, here is the final list of countries and their assigned regions:
 | Region | Size | Countries |
 |---|---|---|
-| West Africa | 15 countries | |
-| Southern Africa | 12 countries | |
-| Eastern Africa | 11 countries | |
+| West Africa | 15 countries | Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo|
+| Southern Africa | 12 countries | Botswana, Comoros, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, South Africa, Swaziland, Zambia, Zimbabwe|
+| Eastern Africa | 11 countries | Burundi, Djibouti, Ethiopia, Eritrea, Kenya, Tanzania, Rwanda, Seychelles, Somalia, South Sudan, Uganda|
 | Central Africa | 9 countries | Angola, CAR, Cameroon, Chad, Congo, DRC, Equatorial Guinea, Gabon, Sao Tome |
 | North Africa | 7 countries | Algeria, Egypt, Libya, Mauritania, Morocco, Sudan, Tunisia|
