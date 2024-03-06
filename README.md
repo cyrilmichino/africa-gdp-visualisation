@@ -17,5 +17,5 @@ For clarity on how we imputed regions in Africa, here is the final list of count
 | West Africa | 15 countries | |
 | Southern Africa | 12 countries | |
 | Eastern Africa | 11 countries | |
-| Central Africa | 9 countries | |
-| North Africa | 7 countries | |
+| Central Africa | 9 countries | Angola, CAR, Cameroon, Chad, Congo, DRC, Equatorial Guinea, Gabon, Sao Tome |
+| North Africa | 7 countries | Algeria, Egypt, Libya, Mauritania, Morocco, Sudan, Tunisia|
